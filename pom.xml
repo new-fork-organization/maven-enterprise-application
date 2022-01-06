@@ -18,19 +18,5 @@
 	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 </properties>
-  <distributionManagement>
-	
-	    <repository>
-	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://65.0.19.54:9980/Mithuntechnoligies/repository/facebook-release/</url>
-	    </repository>
-	    
-	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://65.0.19.54:9980/Mithuntechnoligies/repository/facebook-snapshot/</url>
-	    </snapshotRepository>
-	    
-	</distributionManagement>
+ 
 </project>
