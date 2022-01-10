@@ -19,3 +19,18 @@
 	<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 </properties>
 </project>
+<distributionManagement>
+	
+	    <repository>
+	      <id>nexus</id>
+	      <name>Mithun Technologies Releases Nexus Repository</name>
+	      <url>http://13.233.158.238:9980/Mithuntechnoligies/repository/facebook2.release/</url>
+	    </repository>
+	    
+	    <snapshotRepository>
+	      <id>nexus</id>
+	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <url>http://13.233.158.238:9980/Mithuntechnoligies/repository/facebook2.snapshot/</url>
+	    </snapshotRepository>
+	    
+	</distributionManagement>
