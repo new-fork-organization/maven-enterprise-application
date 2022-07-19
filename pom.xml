@@ -14,7 +14,7 @@
   
   <properties>
 	<!-- versions -->
-	<sonar.host.url>http://54.244.218.163:9000/</sonar.host.url>
+	<sonar.host.url>http://34.209.152.168:9000/</sonar.host.url>
 	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 </properties>
@@ -23,13 +23,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://34.212.168.132:8081/repository/Facebook-Release/</url>
+	      <url>http://52.37.201.49:8081/repository/Facebook-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://34.212.168.132:8081/repository/Facebook-Sanpshot/</url>
+	      <url>http://52.37.201.49:8081/repository/Facebook-Sanpshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
