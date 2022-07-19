@@ -23,13 +23,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://52.37.201.49:8081/repository/Facebook-Release/</url>
+	      <url>http://52.37.201.49:8081/repository/Ear-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://52.37.201.49:8081/repository/Facebook-Sanpshot/</url>
+	      <url>http://52.37.201.49:8081/repository/Ear-snapsat/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
